@@ -1,0 +1,7 @@
+I did not write all of the code in this repo. I patched the BFS function, which was
+bugged and was not functioning as intended. The full .CS file is simply included for
+ease of installation. Yes, there will be a slight performance hit increase due to 
+the function actually computing the data that it was supposed too. 
+
+Enjoy,
+-Dmitri
